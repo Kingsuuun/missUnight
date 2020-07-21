@@ -28,7 +28,7 @@ name.second
 
 // tuple 元组大小固定
 let address = (house: 555, street: "daSiMaLu", city: "nanTong")
-let test = (name: "wocao", name: "apple", age: 23)
+//let test = (name: "wocao", name: "apple", age: 23)
 address.street
 
 let setTest = Set(["name", "age", "num"])
